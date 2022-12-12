@@ -1,0 +1,9 @@
+Algoritimo: olamundo
+
+Var: -
+
+Inicio:
+escreva ("Olá mundo!")
+
+Finalgoritmo
+ 

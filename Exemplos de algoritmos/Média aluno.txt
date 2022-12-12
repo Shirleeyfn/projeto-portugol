@@ -1,0 +1,18 @@
+Algoritmo: Média Aritmética 
+
+var: 
+nota1, nota2, nota3 : real
+media : real
+
+Inicio:
+escreval ("Informe a primeira nota: ")
+leia(nota1)
+escreval ("Informe a segunda nota: ")
+leia(nota2)
+escreval ("Informe a terceira nota: ")
+leia(nota3)
+
+media <- (nota1+nota2+nota3) / 3
+escreval ("A média do aluno é: ", media)
+
+Fimalgoritmo
